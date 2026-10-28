@@ -14,6 +14,11 @@ git add -A    : 해당 리포지토리에 접근해서 전부 추가
 ```bash
 # Commit
 git commit -m "commit message..."
+```
 
+```bash
+# push command
+
+git push origin main
 
 ```
